@@ -1,0 +1,5 @@
+git init
+git remorte add origin https://github.com/besunny95/github-uploads.git
+git add
+git commit -m "initializing Repository"
+git push -u origin main 
